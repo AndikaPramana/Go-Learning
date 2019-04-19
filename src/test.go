@@ -14,6 +14,7 @@ func main() {
 	fmt.Println(add(1, 4))
 }
 
+// testing comment on another user commit
 func add(x int, y int) int {
 	return x + y
 }
